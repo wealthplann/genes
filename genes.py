@@ -49,7 +49,7 @@ def cruzamento_encadeado(resultados1, resultados2):
 # Interface Streamlit
 # --------------------------
 
-st.title("🧬 Simulador de Cruzamentos Genéticos com Percentuais")
+st.title("🧬 Simulador de Cruzamentos Genéticos - By Marcinho")
 
 st.header("1️⃣ Cruzamento Simples")
 
